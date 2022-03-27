@@ -7,7 +7,7 @@ y <- x
 y
 
 # Creat an additinal vector z
-z <- c(1:4)
+z <- c(1:5)
 
 # Subsetting
 
