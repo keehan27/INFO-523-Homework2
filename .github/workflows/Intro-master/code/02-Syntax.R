@@ -6,8 +6,11 @@ x <- c(0, 0, 0, 0, 1, 0 ,0)
 y <- x
 y
 
-# Creat an additinal vector z
+# Create an additional vector z
 z <- c(1:4)
+
+#create an additional vector w
+w<- c()
 
 # Subsetting
 
