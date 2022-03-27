@@ -6,6 +6,9 @@ x <- c(0, 0, 0, 0, 1, 0 ,0)
 y <- x
 y
 
+# Creat an additinal vector z
+z <- c(1:4)
+
 # Subsetting
 
 vec <- c(6, 1, 3, 6, 10, 5)
